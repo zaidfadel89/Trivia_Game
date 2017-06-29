@@ -8,7 +8,7 @@ In this assignment, we were required to create a Trivia game using JavaScript fo
 
 **Harry Potter Trivia**
 
-**Instructions:**
+Instructions:
 
 Click Start to begin the trivia.
 You have 30 seconds to answer each question and a counter will be displayed to show how much time is reamining.
