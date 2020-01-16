@@ -1,12 +1,8 @@
 # trivia-game
 
-This is the fourth assignment for the Houston Coding Bootcamp Delivered by UT Austin.
-
-In this assignment, we were required to create a Trivia game using JavaScript for the logic and jQuery to manipulate HTML. 
-
 ## Getting Started
 
-**Harry Potter Trivia**
+**Harry Potter Trivia Game**
 
 Instructions:
 
@@ -17,14 +13,12 @@ If no answer is selected before the timer runs out, the trivia will advance to t
 At the end of the game, you will be shown the number of correct answers, the number of incorrect answers and any questions that went unanswered.
 
 Go ahead! Click on the following link to preview the completed assignment.  
-  https://bronzeowl.github.io/trivia-game/
+ https://bronzeowl.github.io/trivia-game/
 
 ## Built With
 
-* HTML5
-* CSS3
-* [Twitter-Bootstrap](http://getbootstrap.com/) - Framework
-* JavaScript 
-* [jQuery](https://api.jquery.com/) - JavaScript Library
-
-
+- HTML5
+- CSS3
+- [Twitter-Bootstrap](http://getbootstrap.com/) - Framework
+- JavaScript
+- [jQuery](https://api.jquery.com/) - JavaScript Library
