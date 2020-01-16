@@ -13,7 +13,7 @@ If no answer is selected before the timer runs out, the trivia will advance to t
 At the end of the game, you will be shown the number of correct answers, the number of incorrect answers and any questions that went unanswered.
 
 Go ahead! Click on the following link to preview the completed assignment.  
- https://bronzeowl.github.io/trivia-game/
+ https://zaidfadel89.github.io/Trivia_Game2.index/.
 
 ## Built With
 
